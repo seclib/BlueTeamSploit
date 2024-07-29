@@ -7,7 +7,7 @@ Most of the commands used are OS native commands. Native commands have their lim
 
 The current implementation is focused on Windows environments. Some of the powershell commands will not work with windows 7 due to lack of backwards compatibility.<br> 
 <br>
-<p>Download the latest <a href="https://github.com/tsale/BlueSploit/releases">release</a>&nbsp;for windows.</p>
+<p>Download the latest releases for windows.</p>
 <br>
 
 ![](PNGs/BlueSploit.gif)
